@@ -3,6 +3,7 @@
 > **TUXHAUSEN HDD-ToolBox** is a highly specialized "Swiss Army Knife" for storage media. It combines professional Linux low-level utilities with a modern cyberpunk web interface and artificial intelligence.
 
 This distribution is based on **Ubuntu 24.04 (Noble Numbat)** and is delivered as a hardened Docker image with an encrypted application core.
+<img width="1920" height="1080" alt="2026-04-16 19_17_17-HDD-ToolBox (Cyberpunk Docker)" src="https://github.com/user-attachments/assets/a23d6ae7-5fa9-4358-9ddf-4d8aa09c2a70" />
 
 ---
 
